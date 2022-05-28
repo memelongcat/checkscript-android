@@ -13,11 +13,11 @@ cd checkscript
 
 chmod +x install.sh
 
-Соглашаемся со всем
-
 chmod +x checkscript.sh
 
 ./install.sh
+
+Соглашаемся со всем
 
 Теперь в папке Download появилась папка chek, в неё закидываем файл, который хотим проверить
 

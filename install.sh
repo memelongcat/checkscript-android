@@ -1,4 +1,3 @@
-#!/bin/bash
 termux-setup-storage
 pkg install gnupg unrar
 mkdir ~/storage/downloads/chek

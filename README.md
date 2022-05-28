@@ -29,4 +29,4 @@ chmod +x checkscript.sh
 
 Для облегчения, у вас есть кнопочка tab, по двойному нажатию которой, можно дополнить строку и стрелочки навигации.
 
-После установки достаточно просто перейти в директорию checkscript (cd checkscript) и запустить checkscript.sh (./checkscript.sh)
+После установки достаточно просто закинуть изображение в папку check, перейти в директорию checkscript (cd checkscript) и запустить checkscript.sh (./checkscript.sh)

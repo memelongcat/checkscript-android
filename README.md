@@ -1,4 +1,4 @@
-# checkhscript
+# checkscript
 -Как пользоваться?
 
 -Скачиваем Termux, желательно с Fdroid.

@@ -7,7 +7,7 @@
 
 pkg install git
 
-git clone https://github.com/memelongcat/checkscript.git
+git clone https://github.com/memelongcat/checkscript-android.git
 
 cd checkscript 
 

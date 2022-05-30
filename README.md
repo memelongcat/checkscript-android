@@ -31,4 +31,4 @@ chmod +x checkscript.sh
 
 Для облегчения, у вас есть кнопочка tab, по двойному нажатию которой, можно дополнить строку и стрелочки навигации.
 
-После установки достаточно просто закинуть изображение в папку check, перейти в директорию checkscript (cd checkscript-android) и запустить checkscript.sh (./checkscript.sh)
+После установки достаточно просто закинуть изображение в папку check, перейти в директорию checkscript-android (cd checkscript-android) и запустить checkscript.sh (./checkscript.sh)
